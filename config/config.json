@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "abcd",
+    "database": "emp",
+    "host": "localhost",  
+    "port": 1433, 
+    "dialect": "mssql",
+    "dialectOptions": {
+      "options": {
+        "encrypt": false
+      }
+    },
+    "multipleStatements": true
+  }
+}
